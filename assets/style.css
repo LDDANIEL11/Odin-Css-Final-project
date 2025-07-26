@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  color: #e5e7eb;
+  display: flex;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 132px;
+  gap: 32px;
+}
+
+.header {
+  background-color: #1f2937;
+  display: flex;
+  flex: 1 1 auto;
+  padding: 8px;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+  margin-left: 148px;
+  font-weight: bold;
+}
+
+.image-place {
+  background-color: #1f2937;
+  padding: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+}
+
+.intro {
+  font-size: 48px;
+  max-width: 400px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.image {
+  background-color: #989998;
+  padding: 90px 110px;
+  color: #f9faf8;
+}
+
+.explain {
+  font-size: 18px;
+  color: #e5e7eb;
+  max-width: 300px;
+}
+
+.number-1 {
+  background-color: #3882f6;
+  padding: 8px 32px;
+  border-radius: 8px;
+  border-color: #3882f6;
+  font-weight: 700;
+  color: #e5e7eb;
+}
