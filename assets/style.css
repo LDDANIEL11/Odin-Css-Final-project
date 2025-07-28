@@ -114,3 +114,27 @@ ul {
   text-align: center;
   padding-bottom: 96px;
 }
+
+.quote {
+  background-color: #989998;
+  padding: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.quote-line {
+  font-size: 36px;
+  font-style: italic;
+  max-width: 900px;
+  color: #474847;
+}
+
+.quoter {
+  font-size: 16px;
+  font-weight: 900;
+  color: black;
+  margin-left: auto;
+  margin-right: 250px;
+}
