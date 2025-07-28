@@ -22,7 +22,7 @@ ul {
   background-color: #1f2937;
   display: flex;
   flex: 1 1 auto;
-  padding: 8px;
+  padding: 32px;
 }
 
 .logo {
@@ -34,7 +34,7 @@ ul {
 
 .image-place {
   background-color: #1f2937;
-  padding: 48px;
+  padding: 84px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -76,7 +76,7 @@ ul {
   background-color: #f9faf8;
   font-size: 24px;
   font-weight: 900;
-  padding: 32px;
+  padding: 64px;
 }
 
 .subtext {
@@ -94,6 +94,7 @@ ul {
   gap: 48px;
   padding-top: 32px;
   margin: 0;
+  padding: 64px;
 }
 
 .card {
